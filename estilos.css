@@ -1,0 +1,16 @@
+body{
+    background-color: #FC6037;
+    color: #FDE4D6;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 3em;
+    font-weight: 800;
+}
+.final{
+    font-weight: bolder;
+    color: #772FB5;
+    background-color: #FDE4D6;
+    padding: 1em;
+}
